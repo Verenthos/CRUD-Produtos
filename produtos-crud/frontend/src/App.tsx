@@ -4,6 +4,7 @@ import { api } from './services/api';
 import { Product, ProductInput } from './types/product';
 import { ProductForm } from './components/ProductForm';
 import { ProductList } from './components/ProductList';
+import './styles/global.css'
 
 const queryClient = new QueryClient();
 
