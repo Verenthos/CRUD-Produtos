@@ -16,6 +16,7 @@ Um aplicativo web fullstack para gerenciamento de produtos, com frontend em Reac
 ### Backend
 - **Node.js**: Ambiente de execução JavaScript do lado do servidor
 - **Express**: Framework web minimalista para Node.js, facilitando a criação de APIs
+- **Prisma**: ORM moderno para Node.js e TypeScript, que simplifica as interações com o banco de dados, oferece type-safety e facilita a modelagem de dados
 - **PostgreSQL**: Sistema de gerenciamento de banco de dados relacional robusto e confiável
 - **Cors**: Middleware para habilitar o compartilhamento de recursos entre diferentes origens
 
